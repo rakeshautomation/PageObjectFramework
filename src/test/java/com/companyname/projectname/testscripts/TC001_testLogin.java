@@ -26,7 +26,7 @@ public class TC001_testLogin extends TestBase{
 		
 		test.log(LogStatus.PASS, "Basic set up for test is done");
 	}
-	
+	//Rakesh
 	@Test
 	public void testlogin() throws InterruptedException, IOException{
 		try{
